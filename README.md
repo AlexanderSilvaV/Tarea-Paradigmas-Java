@@ -82,4 +82,10 @@ París;Londres;Roma;Madrid
 París
 Recordar
 30
+👥 Integrantes del equipo
+Felipe Arancibia
+
+Franco Labarca
+
+Javier Silva
 
